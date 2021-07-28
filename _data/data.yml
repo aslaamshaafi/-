@@ -112,12 +112,12 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: openwifi CSI fuzzer for authorized sensing and covert channels
+        title: openwifi CSI fuzzer for authorized sensing and covert channels
         link: "https://doi.org/10.1145/3448300.3468255"
         authors: Xianjun Jiao , Michael Mehari , Wei Liu , Muhammad Aslam and Ingrid Moerman
         conference: "WiSec '21, 2021"
 
-      - title: "High precision time synchronization on Wi-Fi based multi-hop network"
+        title: "High precision time synchronization on Wi-Fi based multi-hop network"
         link: "http://hdl.handle.net/1854/LU-8709058"
         authors: Muhammad Aslam, Wei Liu, Xianjun Jiao, Jetmir Haxhibeqiri, Jeroen Hoebeke, Ingrid Moerman
         conference: "IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2021"
