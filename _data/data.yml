@@ -117,7 +117,7 @@ publications:
       - title: openwifi CSI fuzzer for authorized sensing and covert channels
         link: "https://doi.org/10.1145/3448300.3468255"
         authors: Xianjun Jiao , Michael Mehari , Wei Liu , Muhammad Aslam and Ingrid Moerman
-        conference: WiSec '21: Proceedings of the 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks, 2021
+        conference: "WiSec '21: Proceedings of the 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks, 2021"
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
