@@ -6,10 +6,9 @@ layout: default
 {% include career-profile.html %}
 
 {% unless site.data.data.sidebar.education %}
+  {% include news.html %}
   {% include education.html %}
 {% endunless %}
-
-{% include news.html %}
 
 {% include educationcomplete.html %}
 
