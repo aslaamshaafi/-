@@ -58,9 +58,7 @@ career-profile:
 news:
     title: News
     intro: |
-    
-    
-      posts:
+    posts:
         - time: May 2021
           title: Our demo paper titiled High Precision Time Synchronization on Wi-Fi based Multi-Hop Network is presented at IEEE INFOCOM. To watch our work, [click here] (https://youtu.be/m5ryRArbdC8)
           
