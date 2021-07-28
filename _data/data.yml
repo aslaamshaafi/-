@@ -137,9 +137,10 @@ skills:
     toolset:
       - name: Verilog & VHDL
         level: 98%
-
+      - name: SDR Development
+        level: 88%
       - name: Linux Driver Programming
-        level: 58%
+        level: 68%
 
       - name: C and System Programming
         level: 50%
