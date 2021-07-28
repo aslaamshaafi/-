@@ -126,6 +126,11 @@ publications:
         link: "https://doi.org/10.1109/ICIT46573.2021.9453686"
         authors: Haxhibeqiri, Jetmir, Xianjun Jiao, Muhammad Aslam, Ingrid Moerman, and Jeroen Hoebeke
         conference: "22nd IEEE International Conference on Industrial Technology (ICIT), 2021"
+        
+      - title: CMCVT : a concurrent multi-channel virtual transceiver
+        link: "https://doi.org/10.1016/j.aeue.2020.153230"
+        authors: Aslam, Muhammad, Xianjun Jiao, Wei Liu, and Ingrid Moerman
+        conference: "AEU-International Journal of Electronics and Communications 120, 2020"
 
 skills:
     title: Skills &amp; Proficiency
