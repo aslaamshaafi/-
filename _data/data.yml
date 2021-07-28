@@ -78,7 +78,7 @@ education:
 experiences:
     - role: Design and Verification Engineer
       time: 2016 - 2017
-      company:YONGATEK - Yonga Technology Microelectronics, Turkey
+      company: YONGATEK - Yonga Technology Microelectronics, Turkey
       details: |
         Following are the few contributions in the company:
           - Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.
