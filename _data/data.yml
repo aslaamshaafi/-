@@ -36,9 +36,6 @@ sidebar:
 
       - idiom: Urdu
         level: Native
-    posts:
-        - time: May 2021
-          title: Our demo paper is presented at IEEE INFOCOM!
           
     interests:
       - item: Cricket
@@ -56,7 +53,17 @@ career-profile:
       Muhammad Aslam received the B.Sc. degree in electronics engineering from International Islamic University, Islamabad, Pakistan, in 2014,
       and the M.S. degree in electronics and telecommunication engineering from the University of Kocaeli, Turkey, in 2017.
       He is currently pursuing the Ph.D. degree with the IDLab, a core research group of IMEC with research activities embedded in Ghent University, Belgium.
-      His current research interests include SDR based implementation of wireless communication system, video coding/motion estimation, linux driver development and FPGA based system design.   
+      His current research interests include SDR based implementation of wireless communication system, video coding/motion estimation, linux driver development and FPGA based system design.
+
+news:
+    title: News
+    intro: |
+    
+    
+      posts:
+        - time: May 2021
+          title: Our demo paper titiled High Precision Time Synchronization on Wi-Fi based Multi-Hop Network is presented at IEEE INFOCOM. To watch our work, [click here] (https://youtu.be/m5ryRArbdC8)
+          
 education:
     - degree: PhD in Electrical Engineering
       university: Ghent University
