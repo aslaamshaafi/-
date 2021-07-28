@@ -124,13 +124,21 @@ publications:
 
       - title: "Enabling TSN over IEEE 802.11 : low-overhead time synchronization for Wi-Fi clients"
         link: "https://doi.org/10.1109/ICIT46573.2021.9453686"
-        authors: Haxhibeqiri, Jetmir, Xianjun Jiao, Muhammad Aslam, Ingrid Moerman, and Jeroen Hoebeke
+        authors: Haxhibeqiri Jetmir, Xianjun Jiao, Muhammad Aslam, Ingrid Moerman, and Jeroen Hoebeke
         conference: "22nd IEEE International Conference on Industrial Technology (ICIT), 2021"
         
       - title: "CMCVT : a concurrent multi-channel virtual transceiver"
         link: "https://doi.org/10.1016/j.aeue.2020.153230"
-        authors: Aslam, Muhammad, Xianjun Jiao, Wei Liu, and Ingrid Moerman
+        authors: Muhammad Aslam, Xianjun Jiao, Wei Liu, and Ingrid Moerman
         conference: "AEU-International Journal of Electronics and Communications 120, 2020"
+      - title: "An enhanced version of IEEE 802.15.4 standard compliant transceiver supporting variable data rate"
+        link: "http://hdl.handle.net/1854/LU-8616977"
+        authors: Muhammad Aslam, Xianjun Jiao, Wei Liu, and Ingrid Moerman
+        conference: "EuCNC, 2019"
+      - title: "An approach to achieve zero turnaround time in TDD operation on SDR front-end"
+        link: "https://doi.org/10.1109/ACCESS.2018.2883253"
+        authors: Muhammad Aslam, Xianjun Jiao, Wei Liu, and Ingrid Moerman
+        conference: "IEEE ACCESS, 2018"
 
 skills:
     title: Skills &amp; Proficiency
