@@ -81,9 +81,9 @@ experiences:
       company: Ghent University, Belgium
       details: |
         My contributions during the role includes:
-          - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz. [Click here for more details](https://orca-project.github.io/full_stack_802.15.4_imec/)
-          - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. [Click here for more details](https://biblio.ugent.be/publication/8665483)
-          - Implementation of 802.11ax extension for openwifi.[Click here for more details](https://github.com/open-sdr/openwifi)
+          - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz. [More details?](https://orca-project.github.io/full_stack_802.15.4_imec/)
+          - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. [More details?](https://biblio.ugent.be/publication/8665483)
+          - Implementation of 802.11ax extension for openwifi (in progress).[More details?](https://github.com/open-sdr/openwifi)
 
     - role: Design and Verification Engineer
       time: 2016 - 2017
@@ -95,29 +95,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #You can list your side projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: ORCA
+        link: "https://www.orca-project.eu/index.html"
+        tagline: "My contribution includes development of *SDR talk to commercial devices* and *Multiple radio instances on a single SDR for free* features of ORCA project."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Wireless TSN
+        link: "https://www.mwrf.com/technologies/systems/article/21164984/wireless-timesensitive-networks-when-every-microsecond-counts"
+        tagline: "My contribution includes development of  *PTP base clock synchroniztion with hardware timestamping over IEEE 802.11* features of W-TSN project."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: openwifi
+        link: "https://github.com/open-sdr/openwifi"
+        tagline: " My contribution includes development of *802.11ax extension* feature for openwifi (in progress)"
 
 publications:
     title: Publications
