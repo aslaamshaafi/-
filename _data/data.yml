@@ -115,7 +115,6 @@ publications:
     
     papers:
       - title: "openwifi CSI fuzzer for authorized sensing and covert channels"
-        link: "https://doi.org/10.1145/3448300.3468255"
         authors: Xianjun Jiao , Michael Mehari , Wei Liu , Muhammad Aslam and Ingrid Moerman
         conference: "WiSec '21, 2021"
 
