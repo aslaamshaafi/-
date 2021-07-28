@@ -17,7 +17,7 @@ sidebar:
     website: fpgawork.com #do not add http://
     linkedin: muhamed-aslam
     xing: #alandoe
-    github: https://github.com/aslaamshaafi
+    github: aslaamshaafi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -50,35 +50,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Muhammad Aslam received the B.Sc. degree in electronics engineering from International Islamic University, Islamabad, Pakistan, in 2014,
+      and the M.S. degree in electronics and telecommunication engineering from the University of Kocaeli, Turkey, in 2017.
+      He is currently pursuing the Ph.D. degree with the IDLab, a core research group of IMEC with research activities embedded in Ghent University, Belgium.
+      His current research interests include SDR based implementation of wireless communication system, video coding/motion estimation, linux driver development and FPGA based system design.   
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Electrical Engineering
+      university: Ghent University
+      time: 2017 - 2022 (expected)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        PhD Thesis (expected)
+          - hardware/software co-design of flexible & modular radio networks (to be decided).
+    - degree: Msc in Electronics and Communication Engineering
+      university: Kocaeli University
+      time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Master Thesis
+          - Low bit-depth based Motion Estimation (ME) and its Hardware Architecture for H.264 and HEVC. 
+          - The The proposed hardware architecture of ME can process 93  1280×720 full HD frames per second with only 25 milliwatts of power consumption for H.264 and can process up to 52 720p full HD frames per second with 284.9mW average power consumption for H.265.
+    - degree: Bsc in Electronics Engineering
+      university: International Islamic University
+      time: 2010 - 2014
+      details: |
+        Final Year Project
+          - Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). 
+          - The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
