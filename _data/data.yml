@@ -76,7 +76,7 @@ education:
           - Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). 
           - The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4.
 experiences:
-  - role: Design and Verification Engineer
+    - role: Design and Verification Engineer
       time: 2016 - 2017
       company:YONGATEK - Yonga Technology Microelectronics, Turkey
       details: |
