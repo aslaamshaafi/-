@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -36,7 +36,10 @@ sidebar:
 
       - idiom: Urdu
         level: Native
-
+    posts:
+        - time: May 2021
+          title: Our demo paper is presented at IEEE INFOCOM!
+          
     interests:
       - item: Cricket
         link:
