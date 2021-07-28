@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -76,21 +76,13 @@ education:
           - Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). 
           - The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+  - role: Design and Verification Engineer
+      time: 2016 - 2017
+      company:YONGATEK - Yonga Technology Microelectronics, Turkey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Following are the few contributions in the company:
+          - Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.
+          - RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
