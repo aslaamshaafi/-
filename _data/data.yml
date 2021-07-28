@@ -76,35 +76,22 @@ education:
           - Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). 
           - The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4.
 experiences:
+    - role: Researcher
+      time: 2017 - Present
+      company: Ghent University, Belgium
+      details: |
+        My contributions during the role includes:
+          - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz. [Click here for more details](https://orca-project.github.io/full_stack_802.15.4_imec/)
+          - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. [Click here for more details](https://biblio.ugent.be/publication/8665483)
+          - Implementation of 802.11ax extension for openwifi.[Click here for more details](https://github.com/open-sdr/openwifi)
+
     - role: Design and Verification Engineer
       time: 2016 - 2017
       company: YONGATEK - Yonga Technology Microelectronics, Turkey
       details: |
-        Following are the few contributions in the company:
+        My contributions during the role includes:
           - Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.
           - RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 projects:
     title: Projects
     intro: >
@@ -158,23 +145,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Verilog & VHDL
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Linux Driver Programming
+        level: 58%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C and System Programming
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
