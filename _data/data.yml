@@ -112,14 +112,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      #You can list your publications in this section.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: openwifi CSI fuzzer for authorized sensing and covert channels
+        link: "https://doi.org/10.1145/3448300.3468255"
+        authors: Xianjun Jiao , Michael Mehari , Wei Liu , Muhammad Aslam and Ingrid Moerman
+        conference: WiSec '21: Proceedings of the 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks, 2021
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
