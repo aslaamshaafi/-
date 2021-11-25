@@ -146,7 +146,7 @@ projects:
 
       - title: openwifi
         link: "https://github.com/open-sdr/openwifi"
-        tagline: " My contribution includes development of <p style="font-weight: bold;">802.11ax extension</p> feature for openwifi (in progress)"
+        tagline: "My contribution includes development of <p style="font-weight: bold;">802.11ax extension</p> feature for openwifi (in progress)"
 
 publications:
     title: Selected Publications
