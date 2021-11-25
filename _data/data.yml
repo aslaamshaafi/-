@@ -138,15 +138,15 @@ projects:
     assignments:
       - title: ORCA
         link: "https://www.orca-project.eu/index.html"
-        tagline: "My contribution includes development of <p><strong>SDR talk to commercial devices</strong> and <strong>Multiple radio instances on a single SDR for free</strong></p> features of ORCA project."
+        tagline: "My contribution includes development of <p><b>SDR talk to commercial devices</b> and <b>Multiple radio instances on a single SDR for free</b></p> features of ORCA project."
 
       - title: Wireless TSN
         link: "https://www.mwrf.com/technologies/systems/article/21164984/wireless-timesensitive-networks-when-every-microsecond-counts"
-        tagline: "My contribution includes development of <p><strong>PTP base clock synchroniztion with hardware timestamping over IEEE 802.11</strong></p> features of W-TSN project."
+        tagline: "My contribution includes development of <p><b>PTP base clock synchroniztion with hardware timestamping over IEEE 802.11</b></p> features of W-TSN project."
 
       - title: openwifi
         link: "https://github.com/open-sdr/openwifi"
-        tagline: "My contribution includes development of <p><strong>802.11ax extension</strong></p> feature for openwifi (in progress)"
+        tagline: "My contribution includes development of <p><b>802.11ax extension</b></p> feature for openwifi (in progress)"
 
 publications:
     title: Selected Publications
