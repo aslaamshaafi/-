@@ -106,14 +106,14 @@ educationcomplete:
       details: |
         Master Thesis
         <div> <p style="text-align:justify;">
-          - Low bit-depth based Motion Estimation (ME) and its Hardware Architecture for H.264 and HEVC. The proposed hardware architecture of ME can process 93  1280×720 full HD frames per second with only 25 milliwatts of power consumption for H.264 and can process up to 52 720p full HD frames per second with 284.9mW average power consumption for H.265.</p></div>
+            Low bit-depth based Motion Estimation (ME) and its Hardware Architecture for H.264 and HEVC. The proposed hardware architecture of ME can process 93  1280×720 full HD frames per second with only 25 milliwatts of power consumption for H.264 and can process up to 52 720p full HD frames per second with 284.9mW average power consumption for H.265.</p></div>
     - degree: Bsc in Electronics Engineering
       university: International Islamic University
       time: 2010 - 2014
       details: |
         Final Year Project
-            <div> <p style="text-align:justify;">
-          - Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4. </p></div>
+        <div> <p style="text-align:justify;">
+            Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4. </p></div>
           
 experiences:
     - role: Researcher
