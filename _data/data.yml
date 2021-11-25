@@ -121,10 +121,8 @@ experiences:
       company: Ghent University, Belgium
       details: |
         My contributions during the role includes:
-            <div> <p style="text-align:justify;">
-          - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz. [More details?](https://orca-project.github.io/full_stack_802.15.4_imec/)</p></div>
-            <div> <p style="text-align:justify;">
-          - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. [More details?](https://biblio.ugent.be/publication/8665483) </p></div>
+          - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz. [More details?](https://orca-project.github.io/full_stack_802.15.4_imec/)
+          - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. [More details?](https://biblio.ugent.be/publication/8665483)
           - Implementation of 802.11ax extension for openwifi (in progress).[More details?](https://github.com/open-sdr/openwifi).
 
     - role: Design and Verification Engineer
@@ -132,10 +130,8 @@ experiences:
       company: YONGATEK - Yonga Technology Microelectronics, Turkey
       details: |
         My contributions during the role includes:
-            <div> <p style="text-align:justify;">
-          - Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.</p></div>
-            <div> <p style="text-align:justify;">
-          - RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.</p></div>
+          - Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.
+          - RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.
 projects:
     title: Projects
     intro: >
