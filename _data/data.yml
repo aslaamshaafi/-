@@ -142,9 +142,9 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: ORCA
+      - title: ORCA <data align="justify">
         link: "https://www.orca-project.eu/index.html"
-        tagline: "<data align="justify">My contribution includes development of <b>SDR talk to commercial devices</b> and <b>Multiple radio instances on a single SDR for free</b> features of ORCA project.</data>"
+        tagline: "My contribution includes development of <b>SDR talk to commercial devices</b> and <b>Multiple radio instances on a single SDR for free</b> features of ORCA project.</data>"
 
       - title: Wireless TSN
         link: "https://www.mwrf.com/technologies/systems/article/21164984/wireless-timesensitive-networks-when-every-microsecond-counts"
