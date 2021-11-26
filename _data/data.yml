@@ -135,8 +135,10 @@ experiences:
       company: YONGATEK - Yonga Technology Microelectronics, Turkey
       details: |
         My contributions during the role includes:
-          - Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.
-          - RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.
+        <ul>
+          <li style="text-align:justify;">Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.</li>
+          <li style="text-align:justify;">RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.</li>
+        </ul>  
 projects:
     title: Projects
     intro: >
