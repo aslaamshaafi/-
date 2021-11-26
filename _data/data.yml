@@ -102,7 +102,8 @@ educationcomplete:
       time: 2017 - 2022 (expected)
       details: |
         PhD Thesis (expected)
-          - hardware/software co-design of flexible & modular radio networks (to be decided).
+        <div> <p style="text-align:justify;">
+          - hardware/software co-design of flexible & modular radio networks (to be decided).</p></div>
     - degree: Msc in Electronics and Communication Engineering
       university: Kocaeli University
       time: 2015 - 2017
