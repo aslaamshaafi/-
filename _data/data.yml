@@ -54,7 +54,7 @@ career-profile:
       Muhammad Aslam received the B.Sc. degree in electronics engineering from International Islamic University, Islamabad, Pakistan, in 2014,
       and the M.S. degree in electronics and telecommunication engineering from the University of Kocaeli, Turkey, in 2017.
       He is currently pursuing the Ph.D. degree with the IDLab, a core research group of IMEC with research activities embedded in Ghent University, Belgium.
-      His current research interests include SDR based implementation of wireless communication system, linux driver developmen, FPGA based system design, and video coding/motion estimation.</p> </div>
+       His current research interests include wireless communication standards (IEEE 802.15.4, IEEE 802.11), wireless time-sensitive networking, video coding/motion estimation and their real-time implementation on SoC platforms.</p> </div>
 
 news:
     title: News
@@ -156,10 +156,10 @@ publications:
     
     
     papers:
-      - title: "openwifi CSI fuzzer for authorized sensing and covert channels"
-        link: "https://doi.org/10.1145/3448300.3468255"
-        authors: Xianjun Jiao , Michael Mehari , Wei Liu , Muhammad Aslam and Ingrid Moerman
-        conference: "WiSec '21, 2021"
+      - title: "Hardware Efficient Clock Synchronization across Wi-Fi and Ethernet Based Network Using PTP"
+        link: "https://ieeexplore.ieee.org/document/9573364"
+        authors: Muhammad Aslam, Wei Liu, Xianjun Jiao, Jetmir Haxhibeqiri, Gilson Miranda, J Hoebeke, Johann M. Marquez-Barja, Ingrid Moerman
+        conference: "IEEE Transactions on Industrial Informatics, 2021"
 
       - title: "High precision time synchronization on Wi-Fi based multi-hop network"
         link: "http://hdl.handle.net/1854/LU-8709058"
