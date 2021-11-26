@@ -126,7 +126,7 @@ experiences:
       details: |
         My contributions during the role includes:
         <div> <p style="text-align:justify;">
-          - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz. [More details?](https://orca-project.github.io/full_stack_802.15.4_imec/)<br>
+          - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz.<a href="https://orca-project.github.io/full_stack_802.15.4_imec/">More details?</a><br>
           - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. [More details?](https://biblio.ugent.be/publication/8665483)<br>
           - Implementation of 802.11ax extension for openwifi (in progress).[More details?](https://github.com/open-sdr/openwifi).</p> </div>
 
