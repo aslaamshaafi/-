@@ -126,9 +126,9 @@ experiences:
       details: |
         My contributions during the role includes:
         <ul>
-          <li style="text-align:justify;">Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz.<a href="https://orca-project.github.io/full_stack_802.15.4_imec/">More details?</a>
-          <li style="text-align:justify;">Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. <a href="https://biblio.ugent.be/publication/8665483/">More details?</a>
-          <li style="text-align:justify;">Implementation of 802.11ax extension for openwifi (in progress).<a href="https://github.com/open-sdr/openwifi/">More details?</a>.
+          <li style="text-align:justify;">Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz.<a href="https://orca-project.github.io/full_stack_802.15.4_imec/">More details?</a></li>
+          <li style="text-align:justify;">Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. <a href="https://biblio.ugent.be/publication/8665483/">More details?</a></li>
+          <li style="text-align:justify;">Implementation of 802.11ax extension for openwifi (in progress).<a href="https://github.com/open-sdr/openwifi/">More details?</a></li>
         </ul>
     - role: Design and Verification Engineer
       time: 2016 - 2017
