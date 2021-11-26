@@ -103,7 +103,7 @@ educationcomplete:
       details: |
         PhD Thesis (expected)
         <div> <p style="text-align:justify;">
-          - hardware/software co-design of flexible & modular radio networks (to be decided).</p></div>
+            Hardware/Software co-design of flexible & modular radio networks (to be decided).</p></div>
     - degree: Msc in Electronics and Communication Engineering
       university: Kocaeli University
       time: 2015 - 2017
@@ -125,9 +125,10 @@ experiences:
       company: Ghent University, Belgium
       details: |
         My contributions during the role includes:
+        <div> <p style="text-align:justify;">
           - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz. [More details?](https://orca-project.github.io/full_stack_802.15.4_imec/)
           - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. [More details?](https://biblio.ugent.be/publication/8665483)
-          - Implementation of 802.11ax extension for openwifi (in progress).[More details?](https://github.com/open-sdr/openwifi).
+          - Implementation of 802.11ax extension for openwifi (in progress).[More details?](https://github.com/open-sdr/openwifi).</p> </div>
 
     - role: Design and Verification Engineer
       time: 2016 - 2017
