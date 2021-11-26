@@ -140,12 +140,16 @@ experiences:
           <li style="text-align:justify;">RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.</li>
         </ul>  
 projects:
+    div {
+      text-align: justify;
+      text-justify: inter-word;
+    }
     title: Projects
     intro: >
     assignments:
       - title: ORCA
         link: "https://www.orca-project.eu/index.html"
-        tagline: "<div style="text-align:justify;">My contribution includes development of <b>SDR talk to commercial devices</b> and <b>Multiple radio instances on a single SDR for free</b> features of ORCA project.</div>"
+        tagline: "<div>My contribution includes development of <b>SDR talk to commercial devices</b> and <b>Multiple radio instances on a single SDR for free</b> features of ORCA project.</div>"
 
       - title: Wireless TSN
         link: "https://www.mwrf.com/technologies/systems/article/21164984/wireless-timesensitive-networks-when-every-microsecond-counts"
