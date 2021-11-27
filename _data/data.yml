@@ -131,7 +131,7 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: ORCA <data align="justify">
+      - title: ORCA
         link: "https://www.orca-project.eu/index.html"
         tagline: "My contribution includes development of <b>SDR talk to commercial devices</b> and <b>Multiple radio instances on a single SDR for free</b> features of ORCA project."
 
