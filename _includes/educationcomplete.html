@@ -23,10 +23,11 @@
         <div class="university">{{ graduation.university }}</div>
       </div><!--//meta-->
 
-      {% if graduation.details %}
-      <div class="details">
-        {{ graduation.details | markdownify }}
-      </div><!--//details-->
+      {% if graduation.thesis %}
+      <div class="thesis">
+        {{ graduation.thesis | markdownify }}
+        {{ graduation.summary | markdownify }}
+      </div><!--//thesis-->
       {% endif %}
 
     </div><!--//item-->
