@@ -26,7 +26,7 @@
       {% if graduation.thesis %}
       <div class="thesis">
         {{ graduation.thesis | markdownify }}
-        {{ graduation.summary | markdownify }}
+        <p style="text-align:justify;">{{ graduation.summary | markdownify | remove: '<p>'}}
       </div><!--//thesis-->
       {% endif %}
 
