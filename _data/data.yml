@@ -106,14 +106,13 @@ educationcomplete:
       time: 2015 - 2017
       details: |
         Master Thesis
-            Low bit-depth based Motion Estimation (ME) and its Hardware Architecture for H.264 and HEVC. The proposed hardware architecture of ME can process 93  1280×720 full HD frames per second with only 25 milliwatts of power consumption for H.264 and can process up to 52 720p full HD frames per second with 284.9mW average power consumption for H.265.
+          - Low bit-depth based Motion Estimation (ME) and its Hardware Architecture for H.264 and HEVC. The proposed hardware architecture of ME can process 93  1280×720 full HD frames per second with only 25 milliwatts of power consumption for H.264 and can process up to 52 720p full HD frames per second with 284.9mW average power consumption for H.265.
     - degree: Bsc in Electronics Engineering
       university: International Islamic University
       time: 2010 - 2014
       details: |
         Final Year Project
-        <div> <p style="text-align:justify;">
-            Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4. </p></div>
+          - Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4. </p></div>
           
 experiences:
     - role: Researcher
@@ -121,20 +120,16 @@ experiences:
       company: Ghent University, Belgium
       details: |
         My contributions during the role includes:
-        <ul>
-          <li style="text-align:justify;">Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz.<a href="https://orca-project.github.io/full_stack_802.15.4_imec/">More details?</a></li>
-          <li style="text-align:justify;">Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. <a href="https://biblio.ugent.be/publication/8665483/">More details?</a></li>
-          <li style="text-align:justify;">Implementation of 802.11ax extension for openwifi (in progress).<a href="https://github.com/open-sdr/openwifi/">More details?</a></li>
-        </ul>
+         - Impelementation of IEEE 802.15.4 standard compliant SDR with full communication stack, supporting flexible data rate ranging from 31.25kbps to 2Mbps and tunable RF frequency ranging from 70 MHz to 6 GHz.<a href="https://orca-project.github.io/full_stack_802.15.4_imec/">More details?</a>
+         - Impelementation of IEEE 802.15.4 compliant multi-channel virtual transceiver, capable of transmit/receive data on up-to 8 radio channels simultaneously. <a href="https://biblio.ugent.be/publication/8665483/">More details?</a>
+         - Implementation of 802.11ax extension for openwifi (in progress).<a href="https://github.com/open-sdr/openwifi/">More details?</a>
     - role: Design and Verification Engineer
       time: 2016 - 2017
       company: YONGATEK - Yonga Technology Microelectronics, Turkey
       details: |
         My contributions during the role includes:
-        <ul>
-          <li style="text-align:justify;">Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.</li>
-          <li style="text-align:justify;">RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.</li>
-        </ul>  
+          - Develop Zynq architecture based Testing Environment which consists of AXI stream based IP, DMA IP, DDR RAM, UART and Ethernet interface.
+          - RTL based design for H.264 video encoder, To this end, H.264 video encoder (profile: BASELINE, Level:3.1) was first simulated in MATLAB and then designed in FPGA. The encoder was tested on CYCLONE-V FPGA connected with PC via Ethernet. The encoded bitstream of our encoder was decoded by the VLC media player, running on PC in real time.
 projects:  
     title: Projects
     intro: >
