@@ -72,10 +72,10 @@ news:
 education:
     - degree: PhD in Electrical Engineering
       university: Ghent University
-      time: 2017 - 2022 (expected)
+      time: 2017 - 2022
       details: |
         PhD Thesis (expected)
-          hardware/software co-design of flexible & modular radio networks (to be decided).
+          Hardware Efficient Designs for Deterministic and Low Latency Wireless Communication System Using Software-Define Radio.
     - degree: Msc in Electronics and Communication Engineering
       university: Kocaeli University
       time: 2015 - 2017
