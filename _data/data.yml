@@ -50,8 +50,8 @@ career-profile:
     title: Career Profile
     summary: |
       Muhammad Aslam received the B.Sc. degree in electronics engineering from International Islamic University, Islamabad, Pakistan, in 2014, the M.S. degree in electronics and telecommunication engineering from the University of Kocaeli, Turkey, in 2017, and the P.hD. degree in electrical engineering from the Ghent University, Belgium, in 2022.
-      He has worked as Design and Verification Engineer at Yonga Technology Microelectronics, Turkey for more than one year. Apart from that, he has worked as a researcher at IDLab – an imec research group at Ghent University – for five years. Currently, he has been working as Senior FPGA engineer at ST Engineering iDirect.
-      His current research/industrila interests include wireless communication standards (IEEE 802.15.4, IEEE 802.11, NTN), wireless time-sensitive networking, video coding/motion estimation and their real-time implementation on SoC platforms.
+      He has worked as Design and Verification Engineer at Yonga Technology Microelectronics, Turkey for more than one year. Apart from that, he has worked as a researcher at IDLab – an imec research group at Ghent University – for five years. Currently, he has been working as senior FPGA engineer at ST Engineering iDirect.
+      His current research/industrial interests include wireless communication standards (IEEE 802.15.4, IEEE 802.11, NTN), wireless time-sensitive networking, video coding/motion estimation and their real-time implementation on SoC platforms.
 
 news:
     title: News
@@ -59,8 +59,10 @@ news:
         
     
     posts:
+        - time: Sep 2022
+          title: Muhammad Aslam has successfully defended his PhD title. 
         - time: Sep 2021
-          title: Our paper is presented at IEEE Transactions on Industrial Informatics.    
+          title: Our paper is accepted at IEEE Transactions on Industrial Informatics.    
         - time: May 2021
           title: Our paper is presented at IEEE INFOCOM.
         - time: June 2020
@@ -111,8 +113,15 @@ educationcomplete:
         Soft Multi-rate Viterbi Decoder Implementation On Matlab and FPGA(Sparten3E). The Decoder supports constraint lengths of 3, 4, 7, and code rates of 1/2, 2/3,3/4.
           
 experiences:
+    - role: Senior FPGA Engineer
+      time: 2022 - present
+      company: St Engineering iDirect, Belgium
+      details: |
+        My contributions during the role includes: 
+         (1). Involvded in designing and implementing NTN return technology.<a href="https://www.youtube.com/watch?v=P-BYpEi41WI&ab_channel=STEngineeringiDirect">More details?</a>
+
     - role: Researcher
-      time: 2017 - Present
+      time: 2017 - 2022
       company: Ghent University, Belgium
       details: |
         My contributions during the role includes: 
